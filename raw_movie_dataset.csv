@@ -1,0 +1,101 @@
+﻿Movie Title,Genre,Rating,Production Company,Budget USD,Revenue USD,Profit USD,ROI %,Profit Margin %
+Dangal,Drama,8.3,Aamir Khan Productions,10000000,300000000,290000000,2900,96.6
+Pathaan,Action,5.9,Yash Raj Films,30000000,130000000,100000000,333.3,76.9
+pathaan,action,5.9,YRF,30000000,130000000,100000000,333.3,76.9
+Jawan,Action,7,Red Chillies Ent.,35000000,140000000,105000000,300,75
+Stree 2,Comedy/Horror,7.5,Maddock Films,7000000,100000000,93000000,1328.5,93
+Animal,null,6.3,T-Series,22000000,110000000,88000000,400,80
+Brahmastra,Fantasy,5.6,Dharma Productions,50000000,55000000,5000000,10,9
+Adipurush,Adventure,3.1,T-Series,65M USD,45000000,-20000000,-30.7,-44.4
+Gadar 2,Action,null,Zee Studios,9000000,85000000,76000000,844.4,89.4
+Chhaava,Historical,7.8,Maddock Films,15000000,90000000,75000000,500,83.3
+Saiyaara,Romance,6.9,Yash Raj Films,12000000,45000000,33000000,275,73.3
+Dangal,Drama,8.3,Aamir Khan Productions,10000000,300000000,290000000,2900,96.6
+Pushpa 2,Action,null,Mythri Movie Makers,60000000,250000000,190000000,316.6,76
+Sikandar,Action,4.2,Nadiadwala Grandson,25000000,20000000,-5000000,-20,-25
+Housefull 5,Comedy,5.1,Nadiadwala Grandson,20000000,50000000,30000000,150,60
+Munjya,Horror,7.1,Maddock Films,4000000,15000000,11000000,275,73.3
+War 2,Action,null,Yash Raj Films,35000000,120000000,85000000,ERROR,70.8
+Dhurandhar,Action,6.5,Reliance Ent.,25000000,80000000,55000000,220,68.7
+PK,Sci-Fi,8.1,Rajkumar Hirani Films,12000000,110000000,98000000,816.6,89
+Tiger 3,Action,5.3,Yash Raj Films,35000000,60000000,25000000,71.4,41.6
+83,Sports,7.5,Reliance Ent.,30000000,null,-10000000,-33.3,-50
+Liger,Action,2.7,Dharma Productions,15000000,5000000,-10000000,-66.6,-200
+Bajrangi Bhaijaan,Drama,8.1,SKF,11000000,120000000,109000000,990.9,90.8
+Sultan,Sports,7,Yash Raj Films,12000000,80000000,68000000,566.6,85
+Dilwale,Romance,5.1,Red Chillies,15000000,55000000,40000000,266.6,72.7
+Rocky Aur Rani,Romance,6.6,Dharma,20000000,45000000,25000000,125,55.5
+Drishyam 2,Thriller,8.2,Panorama Studios,6000000,40000000,34000000,566.6,85
+Bhediya,Comedy,6.7,Maddock Films,8000000,12000000,4000000,50,33.3
+Vikram Vedha,Action,7.1,Reliance Ent.,20000000,15000000,-5000000,-25,-33.3
+Cirkus,Comedy,2.1,Rohit Shetty Picturez,15000000,8000000,-7000000,-46.6,-87.5
+Bhool Bhulaiyaa 2,Comedy,6.9,T-Series,9000000,35000000,26000000,288.8,74.2
+The Kashmir Files,Drama,8.3,Zee Studios,2000000,40000000,38000000,1900,95
+Tanhaji,Historical,7.5,ADF,15000000,45000000,30000000,200,66.6
+Kabir Singh,Drama,7,T-Series,8000000,50000000,42000000,525,84
+Uri,Action,8.2,RSVP Movies,3000000,42000000,39000000,1300,92.8
+Sanju,Drama,7.7,Rajkumar Hirani Films,12000000,80000000,68000000,566.6,85
+Padmaavat,Drama,7,Viacom18 Studios,25000000,75000000,50000000,200,66.6
+Raazi,Thriller,7.7,Dharma Productions,5000000,25000000,20000000,400,80
+Baaghi 3,Action,2.1,Nadiadwala Grandson,12000000,18000000,6000000,50,33.3
+Shershaah,Drama,8.4,Dharma Productions,8000000,null,null,null,null
+Gangubai,Drama,7,Bhansali Productions,20000000,25000000,5000000,25,20
+RRR (Hindi),Action,7.8,DVV Ent.,65000000,150000000,85000000,130.7,56.6
+KGF 2 (Hindi),Action,8.2,Hombale Films,15000000,160000000,145000000,966.6,90.6
+Kantara (Hindi),null,8.2,Hombale Films,2000000,15000000,13000000,650,86.6
+Good Newwz,Comedy,6.9,Dharma Productions,8000000,40000000,32000000,400,80
+Dream Girl,Comedy,7,Balaji Motion Pictures,4000000,25000000,21000000,525,84
+Chhichhore,Drama,8.3,Nadiadwala Grandson,7000000,30000000,23000000,328.5,76.6
+Mission Mangal,Drama,6.5,Fox Star Studios,5000000,35000000,30000000,600,85.7
+Badla,Thriller,7.8,Red Chillies Ent.,1500000,15000000,13500000,900,90
+Stree,Comedy/Horror,7.5,Maddock Films,3000000,25000000,22000000,733.3,88
+Andhadhun,Thriller,8.2,Viacom18 Studios,4000000,60000000,56000000,1400,93.3
+Simmba,Action,5.8,Dharma Productions,12000000,50000000,38000000,316.6,76
+Badhaai Ho,Comedy,7.9,Junglee Pictures,3000000,30000000,27000000,900,90
+Raees,Action,6.8,Red Chillies Ent.,11000000,40000000,29000000,263.6,72.5
+Bala,Comedy,7.3,Maddock Films,4000000,20000000,16000000,400,80
+Article 15,Drama,8.1,Benaras Media Works,4000000,12000000,8000000,200,66.6
+Super 30,Drama,7.9,Reliance Ent.,8000000,25000000,17000000,212.5,68
+Luka Chuppi,Romance,7,Maddock Films,3000000,15000000,12000000,400,80
+Kesari,Action,7.4,Dharma Productions,12000000,28000000,16000000,133.3,57.1
+Bharat,Drama,4.8,Salman Khan Films,15000000,40000000,25000000,166.6,62.5
+Kick,Action,5.3,Nadiadwala Grandson,18000000,50000000,32000000,177.7,64
+Bajirao Mastani,Romance,7.2,Bhansali Productions,18000000,55000000,37000000,205.5,67.2
+Golmaal Again,Comedy,4.9,Reliance Ent.,12000000,40000000,28000000,233.3,70
+M.S. Dhoni,Sports,7.9,Fox Star Studios,15000000,30000000,15000000,100,50
+Prem Ratan Dhan Payo,Romance,4.4,Rajshri Productions,20000000,55000000,35000000,175,63.6
+Happy New Year,Comedy,5,Red Chillies Ent.,20000000,50000000,30000000,150,60
+Singham Returns,Action,5.7,Reliance Ent.,15000000,30000000,15000000,100,50
+Chennai Express,Comedy,6,Red Chillies Ent.,15000000,55000000,40000000,266.6,72.7
+Yeh Jawaani Hai Deewani,Romance,7.2,Dharma Productions,8000000,45000000,37000000,462.5,82.2
+Agneepath,Action,6.9,Dharma Productions,10000000,25000000,15000000,150,60
+Don 2,Action,7.1,Excel Ent.,12000000,30000000,18000000,150,60
+Bodyguard,Action,4.9,Salman Khan Films,10000000,35000000,25000000,250,71.4
+Zindagi Na Milegi Dobara,Drama,8.2,Excel Ent.,8000000,20000000,12000000,150,60
+My Name Is Khan,Drama,7.9,Dharma Productions,12000000,40000000,28000000,233.3,70
+3 Idiots,Comedy,8.4,Vinod Chopra Films,7000000,60000000,53000000,757.1,88.3
+Ghajini,Action,7.3,Geetha Arts,8000000,30000000,22000000,275,73.3
+Om Shanti Om,Fantasy,6.7,Red Chillies Ent.,6000000,25000000,19000000,316.6,76
+Dhoom 2,Action,6.5,Yash Raj Films,6000000,20000000,14000000,233.3,70
+Krrish,Sci-Fi,6.4,Filmkraft Productions,7000000,15000000,8000000,114.2,53.3
+Devdas,Romance,7.5,null,10000000,12000000,2000000,20,16.6
+Lagaan,Sports,8.1,Aamir Khan Productions,4000000,5000000,1000000,25,20
+Dil Chahta Hai,Drama,8.1,Excel Ent.,2000000,3000000,1000000,50,33.3
+Kuch Kuch Hota Hai,Romance,7,Dharma Productions,2000000,15000000,13000000,650,86.6
+Dilwale Dulhania Le Jayenge,Romance,8,Yash Raj Films,1000000,20000000,19000000,1900,95
+Sholay,Action,8.1,Sippy Films,500000,30000000,29500000,5900,98.3
+Mother India,Drama,7.9,Mehboob Productions,100000,5000000,4900000,4900,98
+Brahmastra,Fantasy,5.6,Dharma Productions,50000000,55000000,5000000,10,9
+Animal,null,6.3,T-Series,22000000,110000000,88000000,400,80
+Selfiee,Drama,5,Dharma Productions,12000000,3000000,-9000000,-75,-300
+Shehzada,Action,4.5,T-Series,10000000,6000000,-4000000,-40,-66.6
+Bade Miyan Chote Miyan 2,Action,2.5,Pooja Ent.,40000000,15000000,-25000000,-62.5,-166.6
+Cuttputlli,Thriller,null,Pooja Ent.,10000000,null,null,null,null
+Heropanti 2,Action,2,Nadiadwala Grandson,10000000,4000000,-6000000,-60,-150
+Samrat Prithviraj,Historical,5.5,Yash Raj Films,30000000,12000000,-18000000,-60,-150
+Laal Singh Chaddha,Drama,5.5,Aamir Khan Productions,25000000,18000000,-7000000,-28,-38.8
+Radhe,Action,1.9,Salman Khan Films,15000000,2000000,-13000000,-86.6,-650
+Thugs of Hindostan,Adventure,4.1,Yash Raj Films,35000000,40000000,5000000,14.2,12.5
+Zero,Sci-Fi,5.3,Red Chillies Ent.,25000000,22000000,-3000000,-12,-13.6
+Ra.One,Sci-Fi,4.7,Red Chillies Ent.,20000000,25000000,5000000,25,20
+Race 3,Action,1.9,Salman Khan Films,22000000,35000000,13000000,59,37.1
